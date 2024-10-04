@@ -1,9 +1,15 @@
 body {
     color: white;
+    background-color: black;
+    margin: 0px;
+    font-family: 'Chakra Petch';
+    margin-bottom: 100px;
 
 
 
-
+header {
+    
+}
 
 
 }
