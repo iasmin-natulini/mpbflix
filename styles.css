@@ -5,7 +5,7 @@ body {
     margin: 0px;
     font-family: 'Chakra Petch';
     margin-bottom: 100px;
-
+}
 
 
 header {header {
@@ -31,5 +31,13 @@ div {
 .chamada-texto {
     margin-right: 5%;
 }
+h1 {
+    font-size: 40px;
+  }
+  p {
+    font-size: 20px;
+  }
     
-}
+    
+
+
